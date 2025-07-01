@@ -9,15 +9,15 @@
 </head>
 <body>
   <div class="container">
-    <h1>Olá, eu sou [Seu Nome]</h1>
-    <p class="bio">Sou desenvolvedor web apaixonado por tecnologia, programação e café ☕.</p>
+    <h1>Trabalho de pensamento computacional </h1>
+    <p class="bio"> Nathalia Silva 1d</p>
     <div class="links">
       <a href="https://github.com/seuusuario" target="_blank">GitHub</a>
       <a href="https://linkedin.com/in/seuusuario" target="_blank">LinkedIn</a>
     </div>
   </div>
   <script src="script.js"></script>
-</body>
+</
 </html>
 body {
   font-family: Arial, sans-serif;
